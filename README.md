@@ -3,8 +3,13 @@ SqlRelay For Yii
 
 A Yii Extension to simulate the Oracle PDO driver using the SqlRelay PHP functions.
 
+### Platform
+  *nix
 
-# Usage
+### Dependency
+  fisrt install sqlrealy and oracle client
+
+### Usage
 
 1. copy all files to /path/to/app/protected/components
 
